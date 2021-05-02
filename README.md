@@ -1,8 +1,7 @@
 # gerlecorp
-gerlecorp is a new company based in NULL
+gerlecorp is a new company based in the **fictional** Dutch-Balkan Empire
 
-gerlecorp is designing a new BSD (gerleBSD).
+gerlecorp is designing new shit
 
-[this is what gerleBSD will be based on](https://netbsd.org) or [this](https://freebsd.org)
 
-to join, email me: kecskevodka@gmail.com
+# to join, email me: kecskevodka@gmail.com
